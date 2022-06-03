@@ -1,0 +1,31 @@
+/* Estilos del documento */
+body {
+    background-color: rgb(9, 51, 61);
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    height: auto;
+    font-weight: bolder;
+    font-size: x-large;
+    color: azure;
+    background-color: rgba(99, 180, 126, 0.781);
+    cursor: pointer;    
+}
+
+#titulo {
+    color: azure;
+}
+
+#chiste {
+    color: azure;
+    text-align: center;
+    padding: 10px;
+    border: 2px rgba(199, 149, 57, 0.808) dashed;
+    margin-left: 12%;
+    margin-right: 12%;
+}
